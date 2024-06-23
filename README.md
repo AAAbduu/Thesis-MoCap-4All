@@ -1,5 +1,6 @@
 # Thesis-MoCap-4All
 
+![alt text](http://url/to/img.png](https://github.com/AAAbduu/Thesis-MoCap-4All/poster.png))
 
 Welcome to the repository accompanying the thesis on 3D IDLE Motion Dataset Generation and Analysis. This repository contains the tools, datasets, and documentation used and produced during the research.
 
